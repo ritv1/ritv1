@@ -1,16 +1,21 @@
-## Hi there 👋
+## About me
+### Nicknames
+- rit
+- fayvrit
+- ritard
+- ared
+- ritared
 
-<!--
-**ritv1/ritv1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Code languages
+- Lua/Luau
+- JavaScript
+- Java (Still learning)
 
-Here are some ideas to get you started:
+### Tags
+- UI/GUI Designer
+- Beginners
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Socials
+- Discord: @fayvrit
+- V3rm: [rit](https://v3rm.net/members/rit.42430/)
+
